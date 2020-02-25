@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import withStyles from '@material-ui/core/styles/withStyles';
 import Link from 'react-router-dom/Link';
 
-//MUI Stuff
+//MUI Stuffs
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
